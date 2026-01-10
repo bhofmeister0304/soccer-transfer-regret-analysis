@@ -1,4 +1,4 @@
-# County Housing Affordability Project
+# Wisconsin County Housing Affordability Project (2013-2023)
 
 This project analyzes county-level housing affordability in Wisconsin and predicts trends up to 2028. It combines historical data, machine learning predictions, and interactive visualizations in Tableau.
 
